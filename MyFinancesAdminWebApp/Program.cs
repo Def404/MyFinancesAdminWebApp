@@ -1,11 +1,15 @@
-using System.Net;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using MyFinancesAdminWebApp.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie();
+builder.Services.AddDbContext<MyfinancesContext>();
+
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options => options.LoginPath = "/login");
 builder.Services.AddAuthorization();
 
 var app = builder.Build();

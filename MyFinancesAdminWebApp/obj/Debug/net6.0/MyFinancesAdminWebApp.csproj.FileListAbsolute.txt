@@ -49,3 +49,11 @@ C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\b
 C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

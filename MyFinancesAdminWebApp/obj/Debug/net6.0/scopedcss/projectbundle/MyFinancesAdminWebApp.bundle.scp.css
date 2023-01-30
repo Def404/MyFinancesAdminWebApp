@@ -1,0 +1,127 @@
+/* _content/MyFinancesAdminWebApp/Pages/Login.cshtml.rz.scp.css */
+*[b-uzpsbthfn6]{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body[b-uzpsbthfn6]{
+    font-family: 'Roboto', sans-serif;
+}
+
+input[b-uzpsbthfn6]{
+    height: 35px;
+    width: 100%;
+    font-size: 16px;
+    border: 2px  solid whitesmoke;
+    border-radius: 5px;
+    padding-left: 15px;
+}
+
+main[b-uzpsbthfn6]{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.auth-form-container[b-uzpsbthfn6]{
+    min-width: 350px;
+    background: white;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.form-title[b-uzpsbthfn6]{
+    color: #000;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.form-field[b-uzpsbthfn6]{
+    margin-bottom: 10px;
+}
+
+.form-buttons[b-uzpsbthfn6]{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button[b-uzpsbthfn6]{
+    display: block;
+    height: 35px;
+    width: 100px;
+    background: green;
+    border-radius: 5px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 35px;
+    margin-top: 60px;
+    font-style: bold;
+}
+
+.button.button:hover[b-uzpsbthfn6]{
+    background-color: rgb(2, 116, 2);
+}
+
+a.button[b-uzpsbthfn6]{
+    text-decoration: none;
+}
+/* _content/MyFinancesAdminWebApp/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-q1mwm6ezty] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-q1mwm6ezty] {
+  color: #0077cc;
+}
+
+.btn-primary[b-q1mwm6ezty] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-q1mwm6ezty], .nav-pills .show > .nav-link[b-q1mwm6ezty] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-q1mwm6ezty] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-q1mwm6ezty] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-q1mwm6ezty] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-q1mwm6ezty] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-q1mwm6ezty] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

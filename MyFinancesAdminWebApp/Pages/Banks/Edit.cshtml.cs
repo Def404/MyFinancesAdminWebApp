@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
@@ -5,6 +6,7 @@ using MyFinancesAdminWebApp.Models;
 
 namespace MyFinancesAdminWebApp.Pages.Banks
 {
+    [Authorize(Roles = "admin")]
     public class EditModel : PageModel
     {
         private readonly Context.MyfinancesContext _context;

@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -11,6 +12,7 @@ using MyFinancesAdminWebApp.Models;
 
 namespace MyFinancesAdminWebApp.Pages.TransactionTypes
 {
+    [Authorize(Roles = "admin")]
     public class EditModel : PageModel
     {
         private readonly MyFinancesAdminWebApp.Context.MyfinancesContext _context;
@@ -30,12 +32,12 @@ namespace MyFinancesAdminWebApp.Pages.TransactionTypes
                 return NotFound();
             }
 
-            var transactiontype =  await _context.TransactionTypes.FirstOrDefaultAsync(m => m.TransactionTypeId == id);
-            if (transactiontype == null)
+            var transactionType =  await _context.TransactionTypes.FirstOrDefaultAsync(m => m.TransactionTypeId == id);
+            if (transactionType == null)
             {
                 return NotFound();
             }
-            TransactionType = transactiontype;
+            TransactionType = transactionType;
             return Page();
         }
 

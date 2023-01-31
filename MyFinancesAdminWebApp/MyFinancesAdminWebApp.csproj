@@ -31,6 +31,7 @@
       <Folder Include="Pages\Currencies" />
       <Folder Include="Pages\LocalStorageClassifiers" />
       <Folder Include="Pages\PaymentSystems" />
+      <Folder Include="Pages\TransactionTypes" />
     </ItemGroup>
 
 </Project>

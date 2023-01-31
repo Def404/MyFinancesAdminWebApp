@@ -63,8 +63,48 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYWxTdG9yYWdlQ2xhc3NpZmllcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYWxTdG9yYWdlQ2xhc3NpZmllcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYWxTdG9yYWdlQ2xhc3NpZmllcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYWxTdG9yYWdlQ2xhc3NpZmllcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYWxTdG9yYWdlQ2xhc3NpZmllcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFN5c3RlbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFN5c3RlbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFN5c3RlbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFN5c3RlbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFN5c3RlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Privacy.cshtml]

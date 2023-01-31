@@ -1,0 +1,36 @@
+@page
+@model MyFinancesAdminWebApp.Pages.LocalStorageClassifiers.IndexModel
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LocalStorageClassifier[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LocalStorageClassifier[0].PictureNumber)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.LocalStorageClassifier) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PictureNumber)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.LocalStorageClassifierId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.LocalStorageClassifierId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.LocalStorageClassifierId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

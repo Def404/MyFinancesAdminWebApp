@@ -35,6 +35,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VycmVuY2llc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VycmVuY2llc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VycmVuY2llc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VycmVuY2llc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VycmVuY2llc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

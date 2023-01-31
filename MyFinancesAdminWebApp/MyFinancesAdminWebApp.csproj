@@ -29,6 +29,7 @@
       <Folder Include="Controllers" />
       <Folder Include="Pages\Banks" />
       <Folder Include="Pages\Currencies" />
+      <Folder Include="Pages\LocalStorageClassifiers" />
     </ItemGroup>
 
 </Project>

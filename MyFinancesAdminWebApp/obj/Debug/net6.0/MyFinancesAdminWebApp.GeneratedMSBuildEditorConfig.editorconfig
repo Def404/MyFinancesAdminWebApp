@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Project\Def404(git)\MyFinancesAdminWebApp\MyFinancesAdminWebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

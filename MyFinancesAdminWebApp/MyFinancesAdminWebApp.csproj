@@ -22,4 +22,8 @@
       <PackageReference Include="RestSharp" Version="109.0.0-preview.1" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Controllers" />
+    </ItemGroup>
+
 </Project>

@@ -1,4 +1,5 @@
-﻿using System.Security.Claims;
+﻿using System.Net;
+using System.Security.Claims;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
@@ -34,8 +35,11 @@ public class Login : PageModel
         }
 
         if (user == null)
-            return Unauthorized();
-        
+            return Page();
+
+        if (user.Role != "admin")
+            return Page();
+                
         var claims = new[]{
             new Claim(ClaimTypes.NameIdentifier, user.Login),
             new Claim(ClaimTypes.Role, user.Role)
@@ -43,7 +47,7 @@ public class Login : PageModel
 
         ClaimsIdentity claimsIdentity = new ClaimsIdentity(claims, "Cookies");
         await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity));
-        return RedirectToPage("/Privacy");
+        return RedirectToPage("/Index");
        
     }
 }

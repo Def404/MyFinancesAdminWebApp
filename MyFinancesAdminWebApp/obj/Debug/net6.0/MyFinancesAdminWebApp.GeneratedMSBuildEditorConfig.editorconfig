@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyFinancesAdminWebApp
 build_property.RootNamespace = MyFinancesAdminWebApp
-build_property.ProjectDir = C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\
+build_property.ProjectDir = D:\Project\Def404(git)\MyFinancesAdminWebApp\MyFinancesAdminWebApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp
+build_property.MSBuildProjectDirectory = D:\Project\Def404(git)\MyFinancesAdminWebApp\MyFinancesAdminWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Error.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Index.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Privacy.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/_ViewImports.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/_ViewStart.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-uzpsbthfn6
-
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Shared/_Layout.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q1mwm6ezty

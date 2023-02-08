@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Def404(git)\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj": {}
+    "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Def404(git)\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj": {
+    "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Def404(git)\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
         "projectName": "MyFinancesAdminWebApp",
-        "projectPath": "D:\\Project\\Def404(git)\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
+        "projectPath": "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
         "packagesPath": "C:\\Users\\basc1\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Def404(git)\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\obj\\",
+        "outputPath": "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -107,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

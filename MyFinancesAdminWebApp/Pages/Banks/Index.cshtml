@@ -6,18 +6,18 @@
 </p>
 <table class="table">
     <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Bank[0].Name)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Bank[0].Colour)
-            </th>
-            <th></th>
-        </tr>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Bank[0].Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Bank[0].Colour)
+        </th>
+        <th></th>
+    </tr>
     </thead>
     <tbody>
-@foreach (var item in Model.Bank) {
+    @foreach (var item in Model.Bank) {
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Name)
@@ -31,6 +31,13 @@
                 <a asp-page="./Delete" asp-route-id="@item.BankId">Удалить</a>
             </td>
         </tr>
-}
+    }
     </tbody>
 </table>
+<p>@DateTime.Now</p>
+
+<script>
+setTimeout(function (){
+    location.reload();
+},  30000);
+</script>

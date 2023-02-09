@@ -1,0 +1,38 @@
+﻿.conteiner{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.block-conteiner{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.stat-block{
+    min-width: 300px;
+    width: 300px;
+    height: 300px;
+    box-shadow: 1px 1px 25px gray;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    margin: 50px;
+    position:relative;
+    padding: 5px;
+}
+
+.num-text{
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+    margin: 45px 0 0;
+}
+
+.info-text{
+    overflow-wrap: break-word;
+    font-size: 18px;
+    color: gray;
+    text-align: center;
+    margin: 55px 0 15px 0;
+}

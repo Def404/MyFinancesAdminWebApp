@@ -3,7 +3,33 @@
 @{
     ViewData["Title"] = "Главная";
 }
+<link rel="stylesheet" href="css/style.css">
 
-<div class="text-center">
-    <h3 class="text-dark">Админ панел приложения "Мои финансы"</h3>
+<div class="conteiner">
+    <div class="block-conteiner">
+        <div class="stat-block">
+            <div class="block-content">
+                <p class="num-text">@Model.CountUsers</p>
+                <p class="info-text">Количество пользователей</p>
+            </div>
+        </div>
+        <div class="stat-block">
+            <div class="block-content">
+                <p class="num-text">@Model.CountTransaction</p>
+                <p class="info-text">Количество транзакций</p>
+            </div>
+        </div>
+        <div class="stat-block">
+            <div class="block-content">
+                <p class="num-text">@Model.AvgCountTransactionByUser</p>
+                <p class="info-text">Среднее количество транзакций для пользователя</p>
+            </div>
+        </div>
+        <div class="stat-block">
+            <div class="block-content">
+                <p class="num-text">@Model.CountTransactionNowMonth</p>
+                <p class="info-text">Количество транзакций за @DateTime.Now.ToString("MM.yyyy")</p>
+            </div>
+        </div>
+    </div>
 </div>

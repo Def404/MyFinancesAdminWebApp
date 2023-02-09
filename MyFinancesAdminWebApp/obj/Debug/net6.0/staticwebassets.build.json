@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WK46bLpC1rkLZkDrtBK9dX54pDybzU77tGM/uInwD9I=",
+  "Hash": "IRYidkFMn51o1K3X/MtAqkQx6lXnWR+Mak+z85yVa44=",
   "Source": "MyFinancesAdminWebApp",
   "BasePath": "_content/MyFinancesAdminWebApp",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\wwwroot\\css\\style.css",
+      "SourceId": "MyFinancesAdminWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\wwwroot\\",
+      "BasePath": "_content/MyFinancesAdminWebApp",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\wwwroot\\favicon.ico",

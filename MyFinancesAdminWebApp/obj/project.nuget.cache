@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "whjvgbaWPafOXHZM2xI3ubrq5h3Wga+b4qTofIOsmA0L7zPd3BiBCStd7ofPBU+o+20+JkP1Ty/j62xNdFsnJw==",
+  "dgSpecHash": "EzVPYjMqoBwYjiLHqPcQU8xPthl0BLTP20Wn+cML6OErBAeprdBsMPT/QvNlSvkQVrdQtFYWu0aXraMUNa4rXw==",
   "success": true,
   "projectFilePath": "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\basc1\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\basc1\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\basc1\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\basc1\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",

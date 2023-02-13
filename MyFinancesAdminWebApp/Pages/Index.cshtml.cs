@@ -1,4 +1,5 @@
-﻿using Dapper;
+﻿using System.Diagnostics;
+using Dapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -8,7 +9,7 @@ namespace MyFinancesAdminWebApp.Pages;
 [Authorize(Roles = "admin")]
 public class IndexModel : PageModel
 {
-    private const string CONN_STR = "Server=localhost;Port=5432;Database=myfinances;User Id=adef;Password=199as55";
+    private const string CONN_STR = "Server=localhost;Port=5432;Database=myfinances_api;User Id=adef;Password=199as55";
     private readonly ILogger<IndexModel> _logger;
 
     public IndexModel(ILogger<IndexModel> logger)
@@ -24,20 +25,23 @@ public class IndexModel : PageModel
     
     public async Task OnGetAsync()
     {
-        CountUsers = GetCountUser();
+        OnGetCountUser();
         CountTransaction = GetCountTransaction();
         AvgCountTransactionByUser = GetAvgCountTransactionByUser();
         CountTransactionNowMonth = GetCountTransactionNowMonth();
     }
 
-    private int GetCountUser()
+    public ActionResult OnGetCountUser()
     {
         var sqlCommand = "SELECT count(*) FROM users WHERE role='user';";
+
         using (var connection = new NpgsqlConnection(CONN_STR))
         {
             connection.Open();
-            
-            return connection.Query<int>(sqlCommand).FirstOrDefault();
+            var result = connection.Query<int>(sqlCommand).FirstOrDefault();
+         
+            CountUsers = result;
+            return Content(CountUsers.ToString());
         }
     }
 
@@ -72,5 +76,10 @@ public class IndexModel : PageModel
             
             return connection.Query<int>(sqlCommand).FirstOrDefault();
         }
+    }
+
+    public ActionResult OnGetDateTimeNow()
+    {
+        return new ObjectResult(DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss"));
     }
 }

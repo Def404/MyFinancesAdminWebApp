@@ -8,8 +8,8 @@
 <div class="conteiner">
     <div class="block-conteiner">
         <div class="stat-block">
-            <div class="block-content">
-                <p class="num-text">@Model.CountUsers</p>
+            <div class="block-content" >
+                <p class="num-text" id="CountUser">@Model.CountUsers</p>
                 <p class="info-text">Количество пользователей</p>
             </div>
         </div>
@@ -33,3 +33,42 @@
         </div>
     </div>
 </div>
+<p id="DataTimeP">@DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss")</p>
+
+<script>
+
+/*function updateDate (){
+    document.getElementById("DataTimeP").innerHTML = ; 
+}*/
+
+function updateDate() {
+  $.ajax({
+    type: 'GET',
+    url: '?handler=DateTimeNow',
+    success: function (data) {
+      document.getElementById("DataTimeP").innerHTML = data;
+    },
+    error: function (error) {
+      alert("Error: " + error);
+    }
+  })
+}
+
+setInterval(updateDate, 10000);
+
+function updateCountUser(){
+    $.ajax({
+        type:'GET',
+        url: '?handler=CountUser',
+        success: function(data) {
+            document.getElementById("CountUser").innerText = data;
+        },
+        error: function(error) {
+          alert("Error: " + error);
+        }
+    })
+}
+
+setInterval(updateCountUser, 10000)
+
+</script>

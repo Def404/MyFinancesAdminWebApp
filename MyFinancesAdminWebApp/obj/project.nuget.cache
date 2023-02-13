@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EzVPYjMqoBwYjiLHqPcQU8xPthl0BLTP20Wn+cML6OErBAeprdBsMPT/QvNlSvkQVrdQtFYWu0aXraMUNa4rXw==",
+  "dgSpecHash": "GqmBtEyG/KgCIUtjW0O5f8+gTzA3u1svjAuHHzeNIRWWt+3reUKewHFIkFB8czO3KfzaW05bLcNxLAbMDoRWWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
+  "projectFilePath": "D:\\Project\\Def404(git)\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\basc1\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\basc1\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

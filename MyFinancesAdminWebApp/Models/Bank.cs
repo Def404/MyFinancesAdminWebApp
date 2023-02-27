@@ -1,4 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using DevExtreme.AspNet.Mvc;
+using DevExtreme.AspNet.Mvc.Builders;
 
 namespace MyFinancesAdminWebApp.Models;
 
@@ -7,6 +9,8 @@ namespace MyFinancesAdminWebApp.Models;
 /// </summary>
 public partial class Bank
 {
+    
+    [Display(Name = "ID")]
     public int BankId { get; set; }
     [Required(ErrorMessage = "Обязательное поле")]
     [MaxLength(20)]

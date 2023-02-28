@@ -5,7 +5,6 @@ C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\b
 C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\MyFinancesAdminWebApp.deps.json
 C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\MyFinancesAdminWebApp.runtimeconfig.json
 C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\MyFinancesAdminWebApp.dll
-C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\ref\MyFinancesAdminWebApp.dll
 C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\MyFinancesAdminWebApp.pdb
 C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net6.0\MyFinancesAdminWebApp.csproj.AssemblyReference.cache
 C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net6.0\MyFinancesAdminWebApp.GeneratedMSBuildEditorConfig.editorconfig
@@ -628,3 +627,12 @@ D:\Project\Def404(git)\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net
 D:\Project\Def404(git)\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyFinancesAdminWebApp.props
 D:\Project\Def404(git)\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyFinancesAdminWebApp.props
 D:\Project\Def404(git)\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\DevExtreme.AspNet.Core.dll
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\bin\Debug\net6.0\DevExtreme.AspNet.Data.dll
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net6.0\MyFinancesAdminWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net6.0\staticwebassets\msbuild.MyFinancesAdminWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MyFinancesAdminWebApp.props
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyFinancesAdminWebApp.props
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyFinancesAdminWebApp.props
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\obj\Debug\net6.0\refint\MyFinancesAdminWebApp.dll

@@ -1,0 +1,45 @@
+﻿@page
+@model MyFinancesAdminWebApp.Pages.Banks.IndexModel
+
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/pages.css">
+
+<div style="display: flex; flex-wrap: wrap">
+    <div class="p-card p-intp mp-20">
+            <div class="p-card-header">
+                <div class="p-card-title">
+                    <h3 style="display: flex">Ввод текста</h3>
+                </div>
+                <div class="p-card-toolbar">
+                    
+                </div>
+            </div>
+            <div class="p-card-body p-10">
+                @(Html.DevExtreme().TextBox()
+                    .ID("testID")
+                    .Placeholder("Название")
+                    .ShowClearButton(true)
+                    )
+               
+            </div>
+        </div>
+        
+        <div class="p-card p-intp mp-20">
+                <div class="p-card-header">
+                    <div class="p-card-title">
+                        <h3 style="display: flex">Меню выбора</h3>
+                    </div>
+                    <div class="p-card-toolbar">
+                        
+                    </div>
+                </div>
+                <div class="p-card-body p-10">
+                    @(Html.DevExtreme().SelectBox()
+                                       .DataSource(d => d.Mvc().Controller("Banks").LoadAction("Get").Key("BankId"))
+                                       .DisplayExpr("Name")
+                                       .ValueExpr("BankId")
+                                       .Value(0)
+                                   )
+                </div>
+            </div>
+</div>

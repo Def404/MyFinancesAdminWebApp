@@ -9,149 +9,149 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyFinancesAdminWebApp
 build_property.RootNamespace = MyFinancesAdminWebApp
-build_property.ProjectDir = C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp\
+build_property.ProjectDir = D:\Project\Def404(git)\MyFinancesAdminWebApp\MyFinancesAdminWebApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\basc1\source\repos\Def404\MyFinancesAdminWebApp\MyFinancesAdminWebApp
+build_property.MSBuildProjectDirectory = D:\Project\Def404(git)\MyFinancesAdminWebApp\MyFinancesAdminWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Create.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Delete.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Details.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Edit.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Index.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Banks/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFua3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Controls/index.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Controls/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udHJvbHNcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Create.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VycmVuY2llc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Delete.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VycmVuY2llc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Details.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VycmVuY2llc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Edit.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VycmVuY2llc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Index.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Currencies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VycmVuY2llc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Error.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Index.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Create.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYWxTdG9yYWdlQ2xhc3NpZmllcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Delete.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYWxTdG9yYWdlQ2xhc3NpZmllcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Details.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYWxTdG9yYWdlQ2xhc3NpZmllcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Edit.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYWxTdG9yYWdlQ2xhc3NpZmllcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Index.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/LocalStorageClassifiers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9jYWxTdG9yYWdlQ2xhc3NpZmllcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Login.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Create.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFN5c3RlbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Delete.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFN5c3RlbXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Details.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFN5c3RlbXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Edit.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFN5c3RlbXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Index.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/PaymentSystems/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFN5c3RlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Privacy.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Shared/_DevExtremeLayout.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Shared/_DevExtremeLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9EZXZFeHRyZW1lTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/TransactionTypes/Create.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/TransactionTypes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25UeXBlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/TransactionTypes/Delete.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/TransactionTypes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25UeXBlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/TransactionTypes/Details.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/TransactionTypes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25UeXBlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/TransactionTypes/Edit.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/TransactionTypes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25UeXBlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/TransactionTypes/Index.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/TransactionTypes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhY3Rpb25UeXBlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/_ViewImports.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/_ViewStart.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/basc1/source/repos/Def404/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Shared/_Layout.cshtml]
+[D:/Project/Def404(git)/MyFinancesAdminWebApp/MyFinancesAdminWebApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q1mwm6ezty

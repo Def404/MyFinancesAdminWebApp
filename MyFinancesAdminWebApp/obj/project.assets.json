@@ -10855,18 +10855,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
+      "projectUniqueName": "D:\\Project\\Def404(git)\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
       "projectName": "MyFinancesAdminWebApp",
-      "projectPath": "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
+      "projectPath": "D:\\Project\\Def404(git)\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
       "packagesPath": "C:\\Users\\basc1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\obj\\",
+      "outputPath": "D:\\Project\\Def404(git)\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\NuGet.Config",
+        "D:\\Project\\Def404(git)\\MyFinancesAdminWebApp\\NuGet.Config",
         "C:\\Users\\basc1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -10978,7 +10978,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

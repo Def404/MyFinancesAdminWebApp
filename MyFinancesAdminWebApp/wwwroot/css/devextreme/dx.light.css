@@ -7,7 +7,6 @@
 * Copyright (c) 2012 - 2023 Developer Express Inc. ALL RIGHTS RESERVED
 * Read about DevExtreme licensing here: https://js.devexpress.com/Licensing/
 */
-
 .dx-validationsummary-item {
   cursor: pointer;
 }
@@ -6900,9 +6899,9 @@
 }
 .dx-list .dx-empty-message,
 .dx-list-item {
-  border-top: 1px solid #ddd;
+  /*border-top: 1px solid #ddd;*/
  /* color: #333;*/
-  
+  border-top: 1px solid #f5f8fa;
   color: #5e6278;
 }
 .dx-list-item-separator-hidden .dx-list .dx-empty-message,
@@ -11636,6 +11635,9 @@
   cursor: pointer;
   margin-left: 5px;
   margin-right: 1px;
+  
+  
+  margin-top: 3px;
 }
 .dx-pager .dx-pages .dx-separator {
   display: inline-block;
@@ -11673,9 +11675,12 @@
 .dx-pager .dx-pages .dx-selection {
   cursor: inherit;
   text-shadow: none;
-  color: #333;
+  /*color: #333;*/
   border-color: transparent;
-  background-color: #d4d4d4;
+ /* background-color: #d4d4d4;*/
+
+  color: #fff;
+  background-color: #009EF7;
 }
 .dx-pager .dx-light-pages {
   display: inline-block;
@@ -11734,8 +11739,15 @@
   background-color: #f5f8fa;
   border-color: #f5f8fa;
 }
+
+.dx-pager .dx-pages .dx-page:hover{
+  color: #fff;
+  background-color: #009EF7;
+}
 .dx-pager .dx-pages .dx-page {
-  padding: 7px 9px 8px;
+/*  padding: 7px 9px 8px;*/
+  
+  padding: 4px 8px;
 }
 .dx-pager .dx-pages .dx-separator {
   padding-left: 8px;
@@ -11787,6 +11799,8 @@
 .dx-pager .dx-page-size {
   border-radius: 3px;
   border: 1px solid transparent;
+  
+  color: #7e8299;
 }
 .dx-pager .dx-page-sizes .dx-page-size {
   padding: 7px 9px 8px 10px;
@@ -13318,7 +13332,7 @@ a.dx-link.dx-link-cancel{
   -ms-touch-action: pinch-zoom;
   touch-action: pinch-zoom;
   /*border-bottom: 1px solid #ddd;*/
-  background-color: rgba(245,248,250,.5);;
+  background-color: rgba(245,248,250,.5);
 }
 .dx-datagrid-headers .dx-datagrid-content {
   margin-bottom: -1px;

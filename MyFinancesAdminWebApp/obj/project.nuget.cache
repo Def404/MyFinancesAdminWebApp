@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YVZxJ6l/7MnwYEG02uejmUs4H4B+mgqXoWp5E44LmdEOzQ7moMS6nAkkvxBe/c1cww3hD+EGGXMKluaFD7efbQ==",
+  "dgSpecHash": "fRTsIkBD5oHAPLTxv9mFp/qqc6YmgjeNwfNoOkNiJa8fNcccqNZmKw4pRYQuU0feRW9tQESvEbnX/UN9OeohZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\basc1\\source\\repos\\Def404\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
+  "projectFilePath": "D:\\Project\\Def404(git)\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp\\MyFinancesAdminWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\basc1\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\basc1\\.nuget\\packages\\devextreme.aspnet.core\\22.2.4\\devextreme.aspnet.core.22.2.4.nupkg.sha512",
